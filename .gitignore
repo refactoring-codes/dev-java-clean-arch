@@ -1,0 +1,55 @@
+
+# Gradle build files
+.gradle/
+build/
+**/build/3
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.swo
+
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Generated files
+out/
+bin/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Coverage reports
+*.exec
+*.ec
+*.coverage
+*.coverage.xml
+
+# Test results
+test-results/
+*.xml
+
+# Dependency caches
+*.lock
+
+# Other IDE-specific files
+.vscode/
+*.ipr
+*.iws
+
+# Exclude sensitive files
+.env
+*.key
+*.pem
